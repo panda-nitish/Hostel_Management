@@ -73,10 +73,10 @@ View pending due
 Change password / username 
 Save & load data (file handling) 
 
-2.Student Module:
-View personal details 
-View fee payment history 
-Change password 
+2.Student Module:<br>
+View personal details<br> 
+View fee payment history <br>
+Change password <br>
 
 3.Room Management Module : 
 Add Room     
