@@ -70,7 +70,7 @@ Add/View/Search/Update/Delete Student
 Room Management                                           
 Fee Management                                           
 View pending due                                          
-Change password / username 
+Change password / username <br>
 Save & load data (file handling) 
 
 2.Student Module:<br>
@@ -84,12 +84,12 @@ View rooms
 Search room  
 Update room 
 
-4.Fee Management Module :
-Record fee payment 
-View all fee records 
+4.Fee Management Module :<br>
+Record fee payment <br>
+View all fee records  <br>
 
-5.Registration Module :
-New student self-registration 
+5.Registration Module : <br>
+New student self-registration  <br>
 
 SYSTEM DESIGN :
 
