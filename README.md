@@ -75,6 +75,7 @@ Update room
 New student self-registration 
 
 SYSTEM DESIGN :
+
 Data Structures Used :
 
 1.struct Student  – Stores complete student details including personal information, room 
