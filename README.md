@@ -158,3 +158,5 @@ Protected Data Storage:  Uses binary files to prevent  easy viewing or editing o
 sensitive information. 
 Role-Based Access:  Ensures admin and students only access features assigned to their 
 role. 
+
+Author: Nitish Kumar Panda.
