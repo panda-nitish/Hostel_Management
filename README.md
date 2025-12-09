@@ -73,7 +73,7 @@ View pending due
 Change password / username 
 Save & load data (file handling) 
 
-2.Student Module: 
+2.Student Module:
 View personal details 
 View fee payment history 
 Change password 
