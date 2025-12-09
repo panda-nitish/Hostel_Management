@@ -65,19 +65,28 @@ MODULES OF SYSTEM :
 The system is organized into multiple functional modules that handle student management, room 
 allocation, fee processing, authentication, and administrative operations.The modules are: 
 
-1.Admin Module:                                          2.Student Module: 
-Add/View/Search/Update/Delete Student                     Login with ID & Password 
-Room Management                                           View personal details 
-Fee Management                                            View fee payment history 
-View pending due                                          Change password 
+1.Admin Module:                                          
+Add/View/Search/Update/Delete Student                    
+Room Management                                           
+Fee Management                                           
+View pending due                                          
 Change password / username 
 Save & load data (file handling) 
 
-3.Room Management Module :                                4.Fee Management Module :
-Add Room                                                    Record fee payment 
-View rooms                                                  View all fee records 
+2.Student Module: 
+View personal details 
+View fee payment history 
+Change password 
+
+3.Room Management Module : 
+Add Room     
+View rooms  
 Search room  
 Update room 
+
+4.Fee Management Module :
+Record fee payment 
+View all fee records 
 
 5.Registration Module :
 New student self-registration 
